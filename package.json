@@ -1,0 +1,16 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "Custom REST API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "\"SHAMS\"",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  }
+}
